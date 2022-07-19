@@ -4,9 +4,9 @@ function Home() {
     return (
       <section>
     
-          <h1 className="heading-name">
-          Welcome to <strong className="main-name"> Neale Philippe's</strong> Portfolio</h1>
-       
+          <h1 className="navbar-brand">
+          Welcome to Neale's Portfolio </h1>
+      
     </section>
   );
 }
